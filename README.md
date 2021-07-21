@@ -1,5 +1,5 @@
 Ebbs Marketplace is an application built with the Flask framework. It allows the customer to make purchases as well as sell the items purchased in the marketplace.
-There is a starting budget of $1000 given to every new customer signing up to allow them to purchase the items in the marketplace they like.
+There is a starting budget of $1000 given to every new customer signing up to allow them to purchase the items in the marketplace that they like.
 
 Project requirements -
 1. Flask - for the application framework
