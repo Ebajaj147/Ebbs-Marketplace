@@ -9,5 +9,8 @@ Programming languages used -
 1. Python
 2. Html
 
+Example Screenshot of how the marketplace looks:
+<img width="1440" alt="Screenshot 2021-07-21 at 11 58 20 PM" src="https://user-images.githubusercontent.com/46665472/126540778-734f7826-e15e-4698-9b3a-ce6704f406fa.png">
+
 
 
